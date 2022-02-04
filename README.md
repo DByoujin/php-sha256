@@ -20,6 +20,6 @@ echo "암호화 후 내용 : ".$sha256."<br>";
 > $sha256 = hash("sha256", $password);
 > ```
 
-예시 : [LINK](https://aco.codes/github/php-sha256/)
+예시 : [LINK](https://esoftkorea.co.kr/github/php-sha256/)
 
 * ```위 내용은 기본적인 내용을 다룹니다. 본인에 상황에 따라 바꾸어 사용하십시오.```
