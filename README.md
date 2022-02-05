@@ -13,9 +13,9 @@ echo "암호화 후 내용 : ".$sha256."<br>";
 * 변수 $sha256은 변수 $password의 암호화된 내용을 담고 있습니다.
 * hash();은 암호화를 도와줄 도구입니다.
 
-> $password에 암호화할 내용을 넣습니다.
+> $password에 암호화 하고싶은 내용을 넣습니다.
 
-> $sha256 변수를 만들고 hash(); 입력후 $password 내용을 불러옵니다.
+> 변수 $sha256를 만들고 hash(); 를 입력, $password 내용을 불러옵니다.
 > ```
 > $sha256 = hash("sha256", $password);
 > ```
